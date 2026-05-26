@@ -47,7 +47,8 @@ Anschließend wurde ESP-NOW auf beiden Mikrocontrollern eingerichtet. Ein Gerät
 Der Sender überträgt regelmäßig den aktuellen Sensorzustand. Der Empfänger verarbeitet diese Daten und stellt sie anschließend auf dem Display dar.
 
 Zum Abschluss wurde das System getestet und auf stabile Datenübertragung überprüft.
-``cpp    #include <WiFi.h>
+``cpp   
+#include <WiFi.h>
 #include <esp_now.h>
 
 #include <Wire.h>
