@@ -47,7 +47,7 @@ Anschließend wurde ESP-NOW auf beiden Mikrocontrollern eingerichtet. Ein Gerät
 Der Sender überträgt regelmäßig den aktuellen Sensorzustand. Der Empfänger verarbeitet diese Daten und stellt sie anschließend auf dem Display dar.
 
 Zum Abschluss wurde das System getestet und auf stabile Datenübertragung überprüft.
-``cpp   
+   
 #include <WiFi.h>
 #include <esp_now.h>
 
@@ -201,7 +201,7 @@ void loop() {
 
   delay(300);
 }       
-```
+
 6. Fazit
 
 Das Projekt zeigt, wie sich einfache IoT-Systeme mit ESP32 und ESP-NOW realisieren lassen. Die Bewegungserkennung funktioniert zuverlässig und die Daten werden ohne Verzögerung an ein zweites Gerät übertragen.
