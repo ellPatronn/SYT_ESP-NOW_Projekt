@@ -207,3 +207,8 @@ void loop() {
 Das Projekt zeigt, wie sich einfache IoT-Systeme mit ESP32 und ESP-NOW realisieren lassen. Die Bewegungserkennung funktioniert zuverlässig und die Daten werden ohne Verzögerung an ein zweites Gerät übertragen.
 
 Besonders praktisch ist dabei die direkte Kommunikation ohne WLAN-Router, wodurch das System flexibel einsetzbar bleibt.
+
+Fotos von Schaltplan 
+<img width="1177" height="741" alt="emin esp1 jpg (2)" src="https://github.com/user-attachments/assets/864e334a-ea50-4712-b540-547b38cfd41c" />
+<img width="1133" height="676" alt="emin esp2 jpg" src="https://github.com/user-attachments/assets/3643f54d-328a-4405-9cd6-cd779122a6be" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/33ed4062-498b-4aca-94a0-7543dca08b64" />
